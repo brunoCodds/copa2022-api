@@ -1,0 +1,119 @@
+{
+  "grupos": [
+    {
+      "grupo": "Grupo A",
+      "times": [
+        {"pos": 1, "nome": "Holanda", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Senegal", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 3, "nome": "Equador", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 4, "nome": "Catar", "j": 3, "v": 0, "e": 0, "d": 3, "pts": 0}
+      ]
+    },
+    {
+      "grupo": "Grupo B",
+      "times": [
+        {"pos": 1, "nome": "Inglaterra", "j": 3, "v": 2, "e": 1, "d": 0, "pts": 7},
+        {"pos": 2, "nome": "EUA", "j": 3, "v": 1, "e": 2, "d": 0, "pts": 5},
+        {"pos": 3, "nome": "Irã", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3},
+        {"pos": 4, "nome": "Gales", "j": 3, "v": 0, "e": 1, "d": 2, "pts": 1}
+      ]
+    },
+    {
+      "grupo": "Grupo C",
+      "times": [
+        {"pos": 1, "nome": "Argentina", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Polônia", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 3, "nome": "México", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 4, "nome": "Arábia Saudita", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3}
+      ]
+    },
+    {
+      "grupo": "Grupo D",
+      "times": [
+        {"pos": 1, "nome": "França", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Austrália", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 3, "nome": "Tunísia", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 4, "nome": "Dinamarca", "j": 3, "v": 0, "e": 1, "d": 2, "pts": 1}
+      ]
+    },
+    {
+      "grupo": "Grupo E",
+      "times": [
+        {"pos": 1, "nome": "Japão", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Espanha", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 3, "nome": "Alemanha", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 4, "nome": "Costa Rica", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3}
+      ]
+    },
+    {
+      "grupo": "Grupo F",
+      "times": [
+        {"pos": 1, "nome": "Marrocos", "j": 3, "v": 2, "e": 1, "d": 0, "pts": 7},
+        {"pos": 2, "nome": "Croácia", "j": 3, "v": 1, "e": 2, "d": 0, "pts": 5},
+        {"pos": 3, "nome": "Bélgica", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3},
+        {"pos": 4, "nome": "Canadá", "j": 3, "v": 0, "e": 1, "d": 2, "pts": 1}
+      ]
+    },
+    {
+      "grupo": "Grupo G",
+      "times": [
+        {"pos": 1, "nome": "Brasil", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Suíça", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 3, "nome": "Camarões", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3},
+        {"pos": 4, "nome": "Sérvia", "j": 3, "v": 0, "e": 0, "d": 3, "pts": 0}
+      ]
+    },
+    {
+      "grupo": "Grupo H",
+      "times": [
+        {"pos": 1, "nome": "Portugal", "j": 3, "v": 2, "e": 0, "d": 1, "pts": 6},
+        {"pos": 2, "nome": "Coreia do Sul", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 3, "nome": "Uruguai", "j": 3, "v": 1, "e": 1, "d": 1, "pts": 4},
+        {"pos": 4, "nome": "Gana", "j": 3, "v": 1, "e": 0, "d": 2, "pts": 3}
+      ]
+    }
+  ],
+  "fases": [
+    {
+      "fase": "oitavas",
+      "jogos": [
+        {"data": "2022-12-03", "casa": "Holanda", "fora": "EUA", "placar": "3 x 1", "status": "Encerrado"},
+        {"data": "2022-12-03", "casa": "Argentina", "fora": "Austrália", "placar": "2 x 1", "status": "Encerrado"},
+        {"data": "2022-12-04", "casa": "França", "fora": "Polônia", "placar": "3 x 1", "status": "Encerrado"},
+        {"data": "2022-12-04", "casa": "Inglaterra", "fora": "Senegal", "placar": "3 x 0", "status": "Encerrado"},
+        {"data": "2022-12-05", "casa": "Japão", "fora": "Croácia", "placar": "1 x 1 (pen 1x3)", "status": "Encerrado"},
+        {"data": "2022-12-05", "casa": "Brasil", "fora": "Coreia do Sul", "placar": "4 x 1", "status": "Encerrado"},
+        {"data": "2022-12-06", "casa": "Marrocos", "fora": "Espanha", "placar": "0 x 0 (pen 3x0)", "status": "Encerrado"},
+        {"data": "2022-12-06", "casa": "Portugal", "fora": "Suíça", "placar": "6 x 1", "status": "Encerrado"}
+      ]
+    },
+    {
+      "fase": "quartas",
+      "jogos": [
+        {"data": "2022-12-09", "casa": "Croácia", "fora": "Brasil", "placar": "1 x 1 (pen 4x2)", "status": "Encerrado"},
+        {"data": "2022-12-09", "casa": "Holanda", "fora": "Argentina", "placar": "2 x 2 (pen 3x4)", "status": "Encerrado"},
+        {"data": "2022-12-10", "casa": "Marrocos", "fora": "Portugal", "placar": "1 x 0", "status": "Encerrado"},
+        {"data": "2022-12-10", "casa": "Inglaterra", "fora": "França", "placar": "1 x 2", "status": "Encerrado"}
+      ]
+    },
+    {
+      "fase": "semifinal",
+      "jogos": [
+        {"data": "2022-12-13", "casa": "Argentina", "fora": "Croácia", "placar": "3 x 0", "status": "Encerrado"},
+        {"data": "2022-12-14", "casa": "França", "fora": "Marrocos", "placar": "2 x 0", "status": "Encerrado"}
+      ]
+    },
+    {
+      "fase": "terceiro lugar",
+      "jogos": [
+        {"data": "2022-12-17", "casa": "Croácia", "fora": "Marrocos", "placar": "2 x 1", "status": "Encerrado"}
+      ]
+    },
+    {
+      "fase": "final",
+      "jogos": [
+        {"data": "2022-12-18", "casa": "Argentina", "fora": "França", "placar": "3 x 3 (pen 4x2)", "status": "Encerrado"}
+      ]
+    }
+  ]
+}
